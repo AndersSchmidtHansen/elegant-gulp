@@ -1,0 +1,15 @@
+{
+  "name": "elegant_gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "license": "MIT",
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "gulp-coffee": "^2.3.1",
+    "gulp-load-plugins": "^1.0.0-rc.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-util": "^3.0.6",
+    "plumber": "^0.4.8"
+  }
+}
